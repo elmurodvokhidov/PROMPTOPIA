@@ -1,7 +1,5 @@
 # Welcome to Promptopia! 🎉✨
 
-![Promptopia Logo](logo-text.svg)
-
 ## Introduction 🚀
 
 Welcome to Promptopia, a delightful and whimsical web application crafted with **Next.js**, **MongoDB**, and **Tailwind CSS**. Dive into a world of creativity where you can share intriguing prompt messages with fellow users, all while enjoying the seamless integration of modern technologies.
